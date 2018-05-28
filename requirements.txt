@@ -1,4 +1,5 @@
 Django
 requests
 gunicorn
+psycopg2
 whitenoise
